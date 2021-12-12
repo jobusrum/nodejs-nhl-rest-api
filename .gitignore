@@ -1,0 +1,27 @@
+#####
+# OS X temporary files
+#
+.DS_Store
+
+.Trashes
+
+*.swp
+
+#####
+# Node stuff
+#
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directory
+node_modules
+
+# Runtime data
+pids
+*.pid
+*.seed
